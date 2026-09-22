@@ -52,3 +52,6 @@ Python, pandas, scikit-learn, Jupyter Notebook
 1. Clone this repo
 2. Install dependencies: `pip install pandas scikit-learn jupyter`
 3. Open `epl_match_prediction.ipynb` and run all cells
+
+
+🔗 **[Try the live app](https://epl-match-prediction-model.streamlit.app/)**
